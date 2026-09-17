@@ -1,5 +1,5 @@
 Onboarding Journey for GOOGLE PLAY to connect to WICASH App
-PIN : 0771
+PIN : 0101
 
 During your test, once we will receive the SMS, we will update the OTP code here
-OTP : 
+OTP : 123456
