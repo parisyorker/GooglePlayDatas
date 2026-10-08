@@ -3,3 +3,6 @@ PIN : 0101
 
 During your test, once we will receive the SMS, we will update the OTP code here
 OTP : 123456
+
+Once you're done, login with the password and PIN
+Password : kyoto9999
